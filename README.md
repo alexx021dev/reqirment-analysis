@@ -12,4 +12,11 @@ It plays a crucial role in the Software Development Life Cycle (SDLC) as it lays
 1. **Minimizes Rework**: Identifying accurate requirements early prevents costly changes later.
 2. **Improves Communication**: Clear requirements help align developers, testers, and clients.
 3. **Enhances Quality**: Well-defined requirements ensure the final product meets user needs.
+## Key Activities in Requirement Analysis
+
+- **Requirement Gathering**: Collecting requirements from stakeholders.
+- **Requirement Elicitation**: Techniques like interviews, surveys, and brainstorming to explore requirements deeply.
+- **Requirement Documentation**: Recording all gathered information clearly and formally.
+- **Requirement Analysis and Modeling**: Organizing, analyzing, and sometimes visualizing the requirements.
+- **Requirement Validation**: Ensuring requirements are complete, correct, and agreed upon by stakeholders.
 
