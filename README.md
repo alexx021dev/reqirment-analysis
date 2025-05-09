@@ -29,7 +29,7 @@ These describe what the system should do.
 ### Non-functional Requirements
 These define system attributes like performance, usability, etc.
 - Example: The system should load pages within 2 seconds under normal conditions.
-## Acceptance Criteria.
+Acceptance Criteria.
 1. User must be able to review all selected services before payment.
 2. The system should calculate the total price including tax and discounts.
 3. The payment should be processed using integrated payment gateways (e.g., PayPal, Credit Card).
